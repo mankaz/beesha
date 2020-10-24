@@ -1,0 +1,349 @@
+@import '_variable';
+@import '_content-area';
+@import 'font';
+
+
+/* .user-field{
+   display: inline-block;
+   float: right;
+   padding: 10px;
+   a{
+     color:#646165;
+     display: inline-block;
+     padding-right: 20px;
+     text-decoration: none;
+     font-family: $font_IranSAns;
+     vertical-align: top;
+     height: 30px;
+     &.add{
+       font-size: 16px;
+       font-weight: 500;
+       padding-top: 7px;
+     }
+     &.notification{
+       padding-top: 7px;
+       font-size: 20px;
+       padding-top: 5px;
+
+       .circle{
+         background: red;
+         width: 15px;
+         height: 15px;
+         border-radius: 50%;
+         display: inline-block;
+         font-size:12px;
+         color: white;
+         text-align: center;
+         position: relative;
+         top: -8px;
+         left:-10px;
+       }
+     }
+
+   }
+
+ }*/
+
+ul {
+  li {
+    a {
+      font-family: $font_yekan !important;
+      font-size: 1.1em !important;
+    }
+  }
+}
+
+.uk-navbar-dropdown {
+  ul {
+    li {
+      a {
+        color: #1b1b1b !important;
+      }
+    }
+  }
+}
+
+.uk-navbar-right {
+  a {
+    color: $footerTextColor !important;
+  }
+}
+
+.uk-navbar-item {
+  .uk-logo {
+    img {
+      height: 80px;
+      margin-top: 12px;
+    }
+  }
+}
+
+.user-nav {
+  padding-right: 15px;
+}
+
+.uk-navbar-left {
+  span {
+    margin-left: -10px;
+    margin-top: -30px;
+
+  }
+}
+
+.title {
+  margin-bottom: 300px !important;
+  margin-right: 50px;
+
+  h1 {
+    font-family: $font_yekan !important;
+    color: $titleColor;
+  }
+
+  img {
+    height: 70px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+  }
+}
+
+.tab-cat {
+  margin-top: 30px;
+}
+
+.uk-card {
+  border-top-color: #1E87F0;
+}
+.uk-subnav{
+  .product-tag{
+    display: none;
+  }
+}
+.uk-subnav-pill {
+  .product-tag{
+    margin-top: -50px;
+    position: inherit;
+    font-size: 0.80em;
+    font-family: $font_yekan;
+    font-style: normal;
+  }
+.uk-border-pill {
+  -webkit-box-shadow: -14px 18px 47px -11px rgba(0,0,0,0.16);
+  -moz-box-shadow: -14px 18px 47px -11px rgba(0,0,0,0.16);
+  box-shadow: -14px 18px 47px -11px rgba(0,0,0,0.16);
+}
+  .uk-active {
+    .product-tag{
+      display:block;
+    }
+    a {
+      transition: 0.5s;
+      background-color: #fcd661 !important;
+      padding-bottom: 60px;
+      -webkit-box-shadow: -21px 18px 47px -11px rgba(0,0,0,0.5);
+      -moz-box-shadow: -21px 18px 47px -11px rgba(0,0,0,0.5);
+      box-shadow: -21px 18px 47px -11px rgba(0,0,0,0.5);
+
+    }
+  }
+}
+.uk-container {
+    .cat-img{
+      img{
+        height: 50px;
+        border-radius: 50px;
+        background-color: #ffffff;
+        padding: 5px;
+      }
+    }
+}
+.uk-offcanvas-bar {
+  background-color: $canvas !important;
+  color: $white !important;
+  h3{
+    color: $white;
+    font-family: $font_yekan !important;
+    padding-bottom: 15px;
+  }
+  p{
+    font-family: $font_yekan !important;
+    font-size: 1em;
+  }
+  .total-title{
+    margin-top: 100px;
+    p {
+      font-family: $font_yekan !important;
+      font-size: 1em;
+    }
+    .total-price {
+      p{
+        font-family: $font_IranSAns !important;
+        font-size: 1em;
+      }
+    }
+  }
+  .checkout-btn {
+    .uk-button-danger {
+      margin-top: 50px;
+      background-color: $checkoutBtn;
+      font-family: $font_yekan !important;
+      color: $black;
+    }
+  }
+}
+.other-product-btn {
+  background-color: $successColor;
+  font-family: $font_yekan !important;
+  font-size: 1em;
+  color: $white;
+  border-radius: 50px;
+  margin-top: 30px !important;
+  margin-bottom: 100px !important;
+  -webkit-box-shadow: -21px 18px 47px -11px rgba(0,0,0,0.5);
+  -moz-box-shadow: -21px 18px 47px -11px rgba(0,0,0,0.5);
+  box-shadow: -21px 18px 47px -11px rgba(0,0,0,0.5);
+}
+.cat-txt {
+    font-family: $font_yekan !important;
+    font-size: 1em !important;
+    color: $canvas !important;
+}
+.food-name{
+  h6{
+    font-family: $font_yekan !important;
+    color: $black;
+  }
+  p{
+    font-family: $font_yekan !important;
+    color: $black;
+  }
+}
+.icon-cart {
+  span {
+    color: $canvas;
+  }
+  a{
+    text-decoration: none;
+  }
+}
+
+.card-price {
+  i{
+    text-decoration: none !important;
+    font-style: normal;
+    direction: rtl;
+    font-family: $font_yekan !important;
+
+  }
+}
+.price-type {
+  i {
+    float: left !important;
+    padding-right: 5px;
+  }
+}
+.cat-img {
+  h3{
+    font-family: $font_yekan !important;
+    font-size: 30px !important;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+}
+.footer-background{
+  background-image: url("../img/honey-footer.png");
+  background-repeat: no-repeat;
+  background-size: 35%;
+  background-color: #f6d539;
+  color: $white;
+
+  h5{
+    font-family: $font_yekan;
+    font-size: 0.75em;
+    color: $white;
+    direction: rtl;
+  }
+  p{
+    font-family: $font_yekan;
+    font-size: 1em;
+    color: $footerTextColor !important;
+    direction: rtl !important;
+    line-height: 2.5em;
+    text-align: justify;
+  }
+  ul{
+      font-family: $font_yekan;
+      font-size: 0.75em;
+      color: $black !important;
+      direction: rtl !important;
+  }
+}
+
+.uk-background-secondary{
+  background: transparent !important;
+}
+.uk-sticky-fixed{
+  background: #f6ad3f !important;
+}
+.uk-navbar{
+  font-family: $font_yekan;
+  color: black !important;
+}
+.uk-navbar-container{
+  .uk-icon-user {
+    color: $white;
+  }
+}
+.product-info {
+  p{
+    font-family: $font_yekan;
+    direction: rtl;
+    text-align: justify;
+    line-height: 2em;
+  }
+  h2{
+    font-family: $font_yekan !important;
+    text-align: center;
+  }
+}
+
+.uk-divider-icon {
+  background-image: url("../img/logo.png");
+  background-size: 10%;
+  padding: 40px;
+}
+.uk-divider-icon::after {
+  width: 40%;
+  margin-right: 40px;
+}
+.uk-divider-icon::before {
+  left: calc(50% + (50px / 2));
+  width: 40%;
+  margin-left: 40px;
+}
+
+.uk-subnav {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 0 !important;
+  padding: 0;
+  list-style: none;
+}
+.footer-nav {
+  font-family: $font_yekan;
+  ul {
+    li{
+      a{
+        color: $lightBlue;
+        font-size: 0.9em !important;
+      }
+    }
+  }
+}
+.social-media {
+  margin-top: 30px;
+  h6{
+    margin-top: 10px;
+    font-family: $font_yekan;
+    color: $lightBlue;
+  }
+}
