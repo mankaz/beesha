@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ad961c-03aa-4cbe-b748-6c651d14da9e" name="Default Changelist" comment="" />
+    <list default="true" id="09ad961c-03aa-4cbe-b748-6c651d14da9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.css.map" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,18 +44,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZWW7pWWjcE0Q2ZPZuNTWxhxSqO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -38,6 +68,7 @@
       <recent name="C:\xampp\htdocs\piazche\sass" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -79,32 +110,62 @@
       <workItem from="1588528048168" duration="1171000" />
       <workItem from="1588789704757" duration="12000" />
       <workItem from="1588950197424" duration="228000" />
+      <workItem from="1606208042351" duration="466000" />
+      <workItem from="1606209415912" duration="2325000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="457" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585029922465">
+    <state x="568" y="198" width="664" height="332" key="#File_Watchers" timestamp="1606209882392">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="457" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585029922465" />
-    <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585029741792">
+    <state x="568" y="198" width="664" height="332" key="#File_Watchers/0.0.1366.728@0.0.1366.728" timestamp="1606209882392" />
+    <state x="438" y="188" key="#Notifications" timestamp="1606210006166">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1585029741792" />
-    <state x="318" y="142" key="EditFileWatcherDialog" timestamp="1585029763434">
+    <state x="438" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1606210006166" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606211321392">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="318" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1585029763434" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588526236881">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606211321392" />
+    <state x="680" y="70" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1606208329010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588526236881" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1588950326424">
+    <state x="680" y="70" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1606208329010" />
+    <state x="569" y="88" width="662" height="640" key="EditFileWatcherDialog" timestamp="1606209925576">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588950326424" />
+    <state x="569" y="88" width="662" height="640" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1606209925576" />
+    <state x="680" y="120" key="FileChooserDialogImpl" timestamp="1606208208049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="680" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606208208049" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1606209926703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606209926703" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606212281739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606212281739" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606212292371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1606212292371" />
   </component>
 </project>

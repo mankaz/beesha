@@ -4,40 +4,48 @@
   font-weight: bold;
   font-weight: 500;
   src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Bold.eot");
-  src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/IranSans/woff2/IRANSansWeb(FaNum)_Bold.woff2") format("woff2"), url("../fonts/IranSans/woff/IRANSansWeb(FaNum)_Bold.woff") format("woff"), url("../fonts/IranSans/ttf/IRANSansWeb(FaNum)_Bold.ttf") format("truetype"); }
+  src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/IranSans/woff2/IRANSansWeb(FaNum)_Bold.woff2") format("woff2"), url("../fonts/IranSans/woff/IRANSansWeb(FaNum)_Bold.woff") format("woff"), url("../fonts/IranSans/ttf/IRANSansWeb(FaNum)_Bold.ttf") format("truetype");
+}
 @font-face {
   font-family: IRANSans;
   font-style: normal;
   font-weight: 500;
   src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Medium.eot");
-  src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/IranSans/woff2/IRANSansWeb(FaNum)_Medium.woff2") format("woff2"), url("../fonts/IranSans/woff/IRANSansWeb(FaNum)_Medium.woff") format("woff"), url("../fonts/IranSans/ttf/IRANSansWeb(FaNum)_Medium.ttf") format("truetype"); }
+  src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/IranSans/woff2/IRANSansWeb(FaNum)_Medium.woff2") format("woff2"), url("../fonts/IranSans/woff/IRANSansWeb(FaNum)_Medium.woff") format("woff"), url("../fonts/IranSans/ttf/IRANSansWeb(FaNum)_Medium.ttf") format("truetype");
+}
 @font-face {
   font-family: IRANSans;
   font-style: normal;
   font-weight: 300;
   src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Light.eot");
-  src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Light.eot?#iefix") format("embedded-opentype"), url("../fonts/IranSans/woff2/IRANSansWeb(FaNum)_Light.woff2") format("woff2"), url("../fonts/IranSans/woff/IRANSansWeb(FaNum)_Light.woff") format("woff"), url("../fonts/IranSans/ttf/IRANSansWeb(FaNum)_Light.ttf") format("truetype"); }
+  src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Light.eot?#iefix") format("embedded-opentype"), url("../fonts/IranSans/woff2/IRANSansWeb(FaNum)_Light.woff2") format("woff2"), url("../fonts/IranSans/woff/IRANSansWeb(FaNum)_Light.woff") format("woff"), url("../fonts/IranSans/ttf/IRANSansWeb(FaNum)_Light.ttf") format("truetype");
+}
 @font-face {
   font-family: "Yekan";
   font-weight: 300;
-  src: url("../fonts/yekan/Yekan.eot"), url("../fonts/yekan/Yekan.woff") format("woff"), url("../fonts/yekan/Yekan.ttf") format("truetype"); }
+  src: url("../fonts/yekan/Yekan.eot"), url("../fonts/yekan/Yekan.woff") format("woff"), url("../fonts/yekan/Yekan.ttf") format("truetype");
+}
 #content-area {
   margin-right: 280px;
-  padding: 15px; }
-  #content-area .heading h1 {
-    color: purple;
-    font-size: 1.4rem;
-    font-weight: 400;
-    font-family: Yekan;
-    margin-bottom: 10px; }
-  #content-area .heading p {
-    color: #1b1b1b;
-    font-size: 0.8rem;
-    font-family: Yekan;
-    margin-bottom: 10px; }
-  #content-area .cards .card {
-    background: #fff;
-    border-radius: 5px; }
+  padding: 15px;
+}
+#content-area .heading h1 {
+  color: purple;
+  font-size: 1.4rem;
+  font-weight: 400;
+  font-family: Yekan;
+  margin-bottom: 10px;
+}
+#content-area .heading p {
+  color: #1b1b1b;
+  font-size: 0.8rem;
+  font-family: Yekan;
+  margin-bottom: 10px;
+}
+#content-area .cards .card {
+  background: #fff;
+  border-radius: 5px;
+}
 
 @font-face {
   font-family: IRANSans;
@@ -45,23 +53,27 @@
   font-weight: bold;
   font-weight: 500;
   src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Bold.eot");
-  src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/IranSans/woff2/IRANSansWeb(FaNum)_Bold.woff2") format("woff2"), url("../fonts/IranSans/woff/IRANSansWeb(FaNum)_Bold.woff") format("woff"), url("../fonts/IranSans/ttf/IRANSansWeb(FaNum)_Bold.ttf") format("truetype"); }
+  src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/IranSans/woff2/IRANSansWeb(FaNum)_Bold.woff2") format("woff2"), url("../fonts/IranSans/woff/IRANSansWeb(FaNum)_Bold.woff") format("woff"), url("../fonts/IranSans/ttf/IRANSansWeb(FaNum)_Bold.ttf") format("truetype");
+}
 @font-face {
   font-family: IRANSans;
   font-style: normal;
   font-weight: 500;
   src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Medium.eot");
-  src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/IranSans/woff2/IRANSansWeb(FaNum)_Medium.woff2") format("woff2"), url("../fonts/IranSans/woff/IRANSansWeb(FaNum)_Medium.woff") format("woff"), url("../fonts/IranSans/ttf/IRANSansWeb(FaNum)_Medium.ttf") format("truetype"); }
+  src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/IranSans/woff2/IRANSansWeb(FaNum)_Medium.woff2") format("woff2"), url("../fonts/IranSans/woff/IRANSansWeb(FaNum)_Medium.woff") format("woff"), url("../fonts/IranSans/ttf/IRANSansWeb(FaNum)_Medium.ttf") format("truetype");
+}
 @font-face {
   font-family: IRANSans;
   font-style: normal;
   font-weight: 300;
   src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Light.eot");
-  src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Light.eot?#iefix") format("embedded-opentype"), url("../fonts/IranSans/woff2/IRANSansWeb(FaNum)_Light.woff2") format("woff2"), url("../fonts/IranSans/woff/IRANSansWeb(FaNum)_Light.woff") format("woff"), url("../fonts/IranSans/ttf/IRANSansWeb(FaNum)_Light.ttf") format("truetype"); }
+  src: url("../fonts/IranSans/eot/IRANSansWeb(FaNum)_Light.eot?#iefix") format("embedded-opentype"), url("../fonts/IranSans/woff2/IRANSansWeb(FaNum)_Light.woff2") format("woff2"), url("../fonts/IranSans/woff/IRANSansWeb(FaNum)_Light.woff") format("woff"), url("../fonts/IranSans/ttf/IRANSansWeb(FaNum)_Light.ttf") format("truetype");
+}
 @font-face {
   font-family: "Yekan";
   font-weight: 300;
-  src: url("../fonts/yekan/Yekan.eot"), url("../fonts/yekan/Yekan.woff") format("woff"), url("../fonts/yekan/Yekan.ttf") format("truetype"); }
+  src: url("../fonts/yekan/Yekan.eot"), url("../fonts/yekan/Yekan.woff") format("woff"), url("../fonts/yekan/Yekan.ttf") format("truetype");
+}
 /* .user-field{
    display: inline-block;
    float: right;
@@ -104,94 +116,118 @@
  }*/
 ul li a {
   font-family: Yekan !important;
-  font-size: 1.1em !important; }
+  font-size: 1.1em !important;
+}
 
 .uk-navbar-dropdown ul li a {
-  color: #1b1b1b !important; }
+  color: #1b1b1b !important;
+}
 
 .uk-navbar-right a {
-  color: #664602 !important; }
+  color: #664602 !important;
+}
 
 .uk-navbar-item .uk-logo img {
   height: 80px;
-  margin-top: 12px; }
+  margin-top: 12px;
+}
 
 .user-nav {
-  padding-right: 15px; }
+  padding-right: 15px;
+}
 
 .uk-navbar-left span {
   margin-left: -10px;
-  margin-top: -30px; }
+  margin-top: -30px;
+}
 
 .title {
   margin-bottom: 300px !important;
-  margin-right: 50px; }
-  .title h1 {
-    font-family: Yekan !important;
-    color: #b7a20e; }
-  .title img {
-    height: 70px;
-    margin-left: 10px;
-    margin-bottom: 30px; }
+  margin-right: 50px;
+}
+.title h1 {
+  font-family: Yekan !important;
+  color: #b7a20e;
+}
+.title img {
+  height: 70px;
+  margin-left: 10px;
+  margin-bottom: 30px;
+}
 
 .tab-cat {
-  margin-top: 30px; }
+  margin-top: 30px;
+}
 
 .uk-card {
-  border-top-color: #1E87F0; }
+  border-top-color: #1E87F0;
+}
 
 .uk-subnav .product-tag {
-  display: none; }
+  display: none;
+}
 
 .uk-subnav-pill .product-tag {
   margin-top: -50px;
   position: inherit;
-  font-size: 0.80em;
+  font-size: 0.8em;
   font-family: Yekan;
-  font-style: normal; }
+  font-style: normal;
+}
 .uk-subnav-pill .uk-border-pill {
   -webkit-box-shadow: -14px 18px 47px -11px rgba(0, 0, 0, 0.16);
   -moz-box-shadow: -14px 18px 47px -11px rgba(0, 0, 0, 0.16);
-  box-shadow: -14px 18px 47px -11px rgba(0, 0, 0, 0.16); }
+  box-shadow: -14px 18px 47px -11px rgba(0, 0, 0, 0.16);
+}
 .uk-subnav-pill .uk-active .product-tag {
-  display: block; }
+  display: block;
+}
 .uk-subnav-pill .uk-active a {
   transition: 0.5s;
   background-color: #fcd661 !important;
   padding-bottom: 60px;
   -webkit-box-shadow: -21px 18px 47px -11px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: -21px 18px 47px -11px rgba(0, 0, 0, 0.5);
-  box-shadow: -21px 18px 47px -11px rgba(0, 0, 0, 0.5); }
+  box-shadow: -21px 18px 47px -11px rgba(0, 0, 0, 0.5);
+}
 
 .uk-container .cat-img img {
   height: 50px;
   border-radius: 50px;
   background-color: #ffffff;
-  padding: 5px; }
+  padding: 5px;
+}
 
 .uk-offcanvas-bar {
   background-color: #c52b2b !important;
-  color: #ffffff !important; }
-  .uk-offcanvas-bar h3 {
-    color: #ffffff;
-    font-family: Yekan !important;
-    padding-bottom: 15px; }
-  .uk-offcanvas-bar p {
-    font-family: Yekan !important;
-    font-size: 1em; }
-  .uk-offcanvas-bar .total-title {
-    margin-top: 100px; }
-    .uk-offcanvas-bar .total-title p {
-      font-family: Yekan !important;
-      font-size: 1em; }
-    .uk-offcanvas-bar .total-title .total-price p {
-      font-family: IRANSans !important;
-      font-size: 1em; }
-  .uk-offcanvas-bar .checkout-btn .uk-button-danger {
-    margin-top: 50px;
-    background-color: #f5cf5e;
-    font-family: Yekan !important;
-    color: #000000; }
+  color: #ffffff !important;
+}
+.uk-offcanvas-bar h3 {
+  color: #ffffff;
+  font-family: Yekan !important;
+  padding-bottom: 15px;
+}
+.uk-offcanvas-bar p {
+  font-family: Yekan !important;
+  font-size: 1em;
+}
+.uk-offcanvas-bar .total-title {
+  margin-top: 100px;
+}
+.uk-offcanvas-bar .total-title p {
+  font-family: Yekan !important;
+  font-size: 1em;
+}
+.uk-offcanvas-bar .total-title .total-price p {
+  font-family: IRANSans !important;
+  font-size: 1em;
+}
+.uk-offcanvas-bar .checkout-btn .uk-button-danger {
+  margin-top: 50px;
+  background-color: #f5cf5e;
+  font-family: Yekan !important;
+  color: #000000;
+}
 
 .other-product-btn {
   background-color: #01DA8E;
@@ -203,119 +239,146 @@ ul li a {
   margin-bottom: 100px !important;
   -webkit-box-shadow: -21px 18px 47px -11px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: -21px 18px 47px -11px rgba(0, 0, 0, 0.5);
-  box-shadow: -21px 18px 47px -11px rgba(0, 0, 0, 0.5); }
+  box-shadow: -21px 18px 47px -11px rgba(0, 0, 0, 0.5);
+}
 
 .cat-txt {
   font-family: Yekan !important;
   font-size: 1em !important;
-  color: #c52b2b !important; }
+  color: #c52b2b !important;
+}
 
 .food-name h6 {
   font-family: Yekan !important;
-  color: #000000; }
+  color: #000000;
+}
 .food-name p {
   font-family: Yekan !important;
-  color: #000000; }
+  color: #000000;
+}
 
 .icon-cart span {
-  color: #c52b2b; }
+  color: #c52b2b;
+}
 .icon-cart a {
-  text-decoration: none; }
+  text-decoration: none;
+}
 
 .card-price i {
   text-decoration: none !important;
   font-style: normal;
   direction: rtl;
-  font-family: Yekan !important; }
+  font-family: Yekan !important;
+}
 
 .price-type i {
   float: left !important;
-  padding-right: 5px; }
+  padding-right: 5px;
+}
 
 .cat-img h3 {
   font-family: Yekan !important;
   font-size: 30px !important;
   margin-top: 50px;
-  margin-bottom: 50px; }
+  margin-bottom: 50px;
+}
 
 .footer-background {
   background-image: url("../img/honey-footer.png");
   background-repeat: no-repeat;
   background-size: 35%;
   background-color: #f6d539;
-  color: #ffffff; }
-  .footer-background h5 {
-    font-family: Yekan;
-    font-size: 0.75em;
-    color: #ffffff;
-    direction: rtl; }
-  .footer-background p {
-    font-family: Yekan;
-    font-size: 1em;
-    color: #664602 !important;
-    direction: rtl !important;
-    line-height: 2.5em;
-    text-align: justify; }
-  .footer-background ul {
-    font-family: Yekan;
-    font-size: 0.75em;
-    color: #000000 !important;
-    direction: rtl !important; }
+  color: #ffffff;
+}
+.footer-background h5 {
+  font-family: Yekan;
+  font-size: 0.75em;
+  color: #ffffff;
+  direction: rtl;
+}
+.footer-background p {
+  font-family: Yekan;
+  font-size: 1em;
+  color: #664602 !important;
+  direction: rtl !important;
+  line-height: 2.5em;
+  text-align: justify;
+}
+.footer-background ul {
+  font-family: Yekan;
+  font-size: 0.75em;
+  color: #000000 !important;
+  direction: rtl !important;
+}
 
 .uk-background-secondary {
-  background: transparent !important; }
+  background: transparent !important;
+}
 
 .uk-sticky-fixed {
-  background: #f6ad3f !important; }
+  background: #f6ad3f !important;
+}
 
 .uk-navbar {
   font-family: Yekan;
-  color: black !important; }
+  color: black !important;
+}
 
 .uk-navbar-container .uk-icon-user {
-  color: #ffffff; }
+  color: #ffffff;
+}
 
 .product-info p {
   font-family: Yekan;
   direction: rtl;
   text-align: justify;
-  line-height: 2em; }
+  line-height: 2em;
+}
 .product-info h2 {
   font-family: Yekan !important;
-  text-align: center; }
+  text-align: center;
+}
 
 .uk-divider-icon {
   background-image: url("../img/logo.png");
   background-size: 10%;
-  padding: 40px; }
+  padding: 40px;
+}
 
 .uk-divider-icon::after {
   width: 40%;
-  margin-right: 40px; }
+  margin-right: 40px;
+}
 
 .uk-divider-icon::before {
   left: calc(50% + (50px / 2));
   width: 40%;
-  margin-left: 40px; }
+  margin-left: 40px;
+}
 
 .uk-subnav {
   display: flex;
   flex-wrap: wrap;
   margin-right: 0 !important;
   padding: 0;
-  list-style: none; }
+  list-style: none;
+}
 
 .footer-nav {
-  font-family: Yekan; }
-  .footer-nav ul li a {
-    color: #43a6e8;
-    font-size: 0.9em !important; }
+  font-family: Yekan;
+}
+.footer-nav ul li a {
+  color: #43a6e8;
+  font-size: 0.9em !important;
+}
 
 .social-media {
-  margin-top: 30px; }
-  .social-media h6 {
-    margin-top: 10px;
-    font-family: Yekan;
-    color: #43a6e8; }
+  margin-top: 30px;
+}
+.social-media h6 {
+  margin-top: 10px;
+  font-family: Yekan;
+  color: #43a6e8;
+}
 
 /*# sourceMappingURL=style.css.map */
