@@ -19,13 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ad961c-03aa-4cbe-b748-6c651d14da9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+    <list default="true" id="09ad961c-03aa-4cbe-b748-6c651d14da9e" name="Default Changelist" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/backup_final/domains/mobilenama.ir/public_html" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -111,8 +110,17 @@
       <workItem from="1588789704757" duration="12000" />
       <workItem from="1588950197424" duration="228000" />
       <workItem from="1606208042351" duration="466000" />
-      <workItem from="1606209415912" duration="2325000" />
+      <workItem from="1606209415912" duration="4660000" />
+      <workItem from="1606759263968" duration="5933000" />
+      <workItem from="1607075651379" duration="2439000" />
     </task>
+    <task id="LOCAL‎۰۰۰۰۱" summary="first commit">
+      <created>1606212351744</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
+      <updated>1606212351744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +137,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="568" y="198" width="664" height="332" key="#File_Watchers" timestamp="1606209882392">
@@ -151,18 +163,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="569" y="88" width="662" height="640" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1606209925576" />
-    <state x="680" y="120" key="FileChooserDialogImpl" timestamp="1606208208049">
+    <state x="680" y="120" key="FileChooserDialogImpl" timestamp="1607076428271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="680" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606208208049" />
+    <state x="680" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607076428271" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1606209926703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606209926703" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606212281739">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606212837818">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606212281739" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606212837818" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606212292371">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
