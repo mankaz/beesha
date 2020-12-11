@@ -128,7 +128,7 @@ ul li a {
 }
 
 .uk-navbar-item .uk-logo img {
-  height: 80px;
+  height: 90px;
   margin-top: 12px;
 }
 
@@ -147,7 +147,7 @@ ul li a {
 }
 .title h1 {
   font-family: Yekan !important;
-  color: #b7a20e;
+  color: #a543ff;
 }
 .title img {
   height: 70px;
@@ -316,7 +316,7 @@ ul li a {
 }
 
 .uk-sticky-fixed {
-  background: #f6ad3f !important;
+  background: #fdd78d !important;
 }
 
 .uk-navbar {
