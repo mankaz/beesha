@@ -928,3 +928,10 @@
 	height: auto;
 	box-sizing: border-box;
 }
+#health{
+	margin-top: 20%;
+}
+#wounds{
+	margin-top: 30% !important;
+	margin-right: 20%;
+}

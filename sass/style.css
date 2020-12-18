@@ -328,6 +328,11 @@ ul li a {
   color: #ffffff;
 }
 
+.wpb_wrapper h5 {
+  font-family: IRANSans !important;
+  font-size: 2em;
+}
+
 .product-info p {
   font-family: Yekan;
   direction: rtl;
@@ -335,9 +340,9 @@ ul li a {
   line-height: 2em;
 }
 .product-info h2 {
-  font-family: Yekan !important;
+  font-family: IRANSans !important;
   text-align: center;
-  font-size: 1.5em;
+  font-size: 1.1em;
   margin-top: 5px !important;
 }
 .product-info .title-space {
@@ -347,7 +352,7 @@ ul li a {
 .uk-divider-icon {
   background-image: url("../img/logo.png");
   background-size: 10%;
-  padding: 40px;
+  padding: 50px;
 }
 
 .uk-divider-icon::after {
@@ -388,7 +393,7 @@ ul li a {
 
 /* circular element */
 .center-img {
-  max-width: 100%;
+  max-width: 110%;
   height: auto;
   box-sizing: border-box;
   width: 150%;
