@@ -935,3 +935,13 @@
 	margin-top: 30% !important;
 	margin-right: 20%;
 }
+
+
+/* nav menu */
+
+.uk-navbar {
+	z-index: 1 !important;
+}
+.uk-nav li>a {
+	text-align: center !important;
+}

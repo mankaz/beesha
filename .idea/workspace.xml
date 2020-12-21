@@ -19,14 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ad961c-03aa-4cbe-b748-6c651d14da9e" name="Default Changelist" comment="change header">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="09ad961c-03aa-4cbe-b748-6c651d14da9e" name="Default Changelist" comment="complete circular feature">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -126,7 +123,9 @@
       <workItem from="1608141541399" duration="1914000" />
       <workItem from="1608193356139" duration="1000" />
       <workItem from="1608217811552" duration="596000" />
-      <workItem from="1608282467417" duration="6500000" />
+      <workItem from="1608282467417" duration="9625000" />
+      <workItem from="1608400109901" duration="4765000" />
+      <workItem from="1608562531051" duration="7582000" />
     </task>
     <task id="LOCAL‎۰۰۰۰۱" summary="first commit">
       <created>1606212351744</created>
@@ -152,7 +151,13 @@
       <option name="presentableId" value="LOCAL‎۰۰۰۰۴" />
       <updated>1607713627196</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL‎۰۰۰۰۵" summary="complete circular feature">
+      <created>1608292441024</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۵" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۵" />
+      <updated>1608292441024</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +180,8 @@
     <MESSAGE value="circular img" />
     <MESSAGE value="circular img2" />
     <MESSAGE value="change header" />
-    <option name="LAST_COMMIT_MESSAGE" value="change header" />
+    <MESSAGE value="complete circular feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete circular feature" />
   </component>
   <component name="WindowStateProjectService">
     <state x="568" y="198" width="664" height="332" key="#File_Watchers" timestamp="1606209882392">
@@ -202,14 +208,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="680" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607078258232" />
+    <state x="478" y="66" key="RollbackChangesDialog" timestamp="1608401107217">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="478" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608401107217" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1606209926703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606209926703" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1607713636931">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1608292451247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607713636931" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608292451247" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607681659363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
