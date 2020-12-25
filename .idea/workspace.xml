@@ -1,228 +1,234 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ad961c-03aa-4cbe-b748-6c651d14da9e" name="Default Changelist" comment="complete circular feature">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="9bd29793-f3aa-4352-bf96-303039206481" name="Default Changelist" comment="change framework to bulma">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bulma-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/TOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/extend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/eot/IRANSans(FaNum)_Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/eot/IRANSansWeb(FaNum).eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/eot/IRANSansWeb(FaNum)_Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/eot/IRANSansWeb(FaNum)_Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/eot/IRANSansWeb(FaNum)_Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/eot/IRANSansWeb(FaNum)_UltraLight.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/ttf/IRANSansWeb(FaNum).ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/ttf/IRANSansWeb(FaNum)_Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/ttf/IRANSansWeb(FaNum)_Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/ttf/IRANSansWeb(FaNum)_Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/ttf/IRANSansWeb(FaNum)_UltraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/woff/IRANSansWeb(FaNum).woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/woff/IRANSansWeb(FaNum)_Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/woff/IRANSansWeb(FaNum)_Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/woff/IRANSansWeb(FaNum)_Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/woff/IRANSansWeb(FaNum)_UltraLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/woff2/IRANSansWeb(FaNum).woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/woff2/IRANSansWeb(FaNum)_Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/woff2/IRANSansWeb(FaNum)_Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/woff2/IRANSansWeb(FaNum)_Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/IranSans/woff2/IRANSansWeb(FaNum)_UltraLight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/yekan/Yekan.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/yekan/Yekan.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/yekan/Yekan.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/yekan/Yekan.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cebolla.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/celery.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food_image/karafs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food_image/onion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/food_image/sabzi_ash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/honey-footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/honey.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo-old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mermelada.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pickles.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/spinach.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/e086dc72d47ce239ea3640ed5d68b7f69e66d9e2/_content-area.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/e086dc72d47ce239ea3640ed5d68b7f69e66d9e2/_variable.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/e086dc72d47ce239ea3640ed5d68b7f69e66d9e2/font.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/e086dc72d47ce239ea3640ed5d68b7f69e66d9e2/style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/f1dc4dca11e0bf137d4705ed4a9808f8c97b2622/_content-area.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/f1dc4dca11e0bf137d4705ed4a9808f8c97b2622/_variable.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/f1dc4dca11e0bf137d4705ed4a9808f8c97b2622/font.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/f1dc4dca11e0bf137d4705ed4a9808f8c97b2622/style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_content-area.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_var.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_variable.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/generic.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/helpers.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/minireset.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/breadcrumb.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/card.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/dropdown.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/level.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/menu.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/message.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/modal.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/navbar.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/pagination.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/panel.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/tabs.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/box.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/button.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/container.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/content.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/form.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/icon.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/image.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/notification.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/other.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/progress.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/table.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/tag.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/elements/title.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/font.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/form/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/form/checkbox-radio.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/form/file.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/form/input-textarea.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/form/select.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/form/shared.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/form/tools.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/grid/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/grid/columns.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/grid/tiles.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/helpers/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/helpers/color.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/helpers/flexbox.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/helpers/float.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/helpers/other.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/helpers/overflow.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/helpers/position.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/helpers/spacing.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/helpers/typography.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/helpers/visibility.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layout/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layout/footer.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layout/hero.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layout/section.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/utilities/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/utilities/animations.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/utilities/controls.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/utilities/derived-variables.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/utilities/functions.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/utilities/initial-variables.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/utilities/mixins.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tile-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tile.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ZWW7pWWjcE0Q2ZPZuNTWxhxSqO" />
+  <component name="ProjectId" id="1m768BJXHPMRhUamikm8xvX86eL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="NewWatcherDialog.advanced.open" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/backup_final/domains/mobilenama.ir/public_html" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../beesha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\piazche" />
-      <recent name="C:\xampp\htdocs\piazche\sass" />
+      <recent name="C:\xampp\htdocs\bulma\sass" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="09ad961c-03aa-4cbe-b748-6c651d14da9e" name="Default Changelist" comment="" />
-      <created>1584955165553</created>
+      <changelist id="9bd29793-f3aa-4352-bf96-303039206481" name="Default Changelist" comment="" />
+      <created>1608832120777</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584955165553</updated>
-      <workItem from="1584955167175" duration="3534000" />
-      <workItem from="1584960337984" duration="335000" />
-      <workItem from="1584979699730" duration="2702000" />
-      <workItem from="1584984595093" duration="3000" />
-      <workItem from="1585029045170" duration="459000" />
-      <workItem from="1585029657671" duration="40000" />
-      <workItem from="1585053297294" duration="10160000" />
-      <workItem from="1585078825319" duration="1334000" />
-      <workItem from="1585112707382" duration="15940000" />
-      <workItem from="1585141685314" duration="12078000" />
-      <workItem from="1585202868291" duration="883000" />
-      <workItem from="1585223620938" duration="8835000" />
-      <workItem from="1585288159710" duration="4173000" />
-      <workItem from="1585320679884" duration="1229000" />
-      <workItem from="1585417285888" duration="145000" />
-      <workItem from="1585465001556" duration="1478000" />
-      <workItem from="1585575494518" duration="2421000" />
-      <workItem from="1585594334473" duration="2433000" />
-      <workItem from="1585633476073" duration="3395000" />
-      <workItem from="1585722114988" duration="2819000" />
-      <workItem from="1585850417027" duration="3055000" />
-      <workItem from="1585892153563" duration="3822000" />
-      <workItem from="1586069755745" duration="4502000" />
-      <workItem from="1586102206602" duration="2239000" />
-      <workItem from="1588517379963" duration="1212000" />
-      <workItem from="1588519247538" duration="601000" />
-      <workItem from="1588521444810" duration="320000" />
-      <workItem from="1588526152916" duration="1284000" />
-      <workItem from="1588528048168" duration="1171000" />
-      <workItem from="1588789704757" duration="12000" />
-      <workItem from="1588950197424" duration="228000" />
-      <workItem from="1606208042351" duration="466000" />
-      <workItem from="1606209415912" duration="4660000" />
-      <workItem from="1606759263968" duration="5933000" />
-      <workItem from="1607075651379" duration="4250000" />
-      <workItem from="1607087641760" duration="6175000" />
-      <workItem from="1607361067656" duration="617000" />
-      <workItem from="1607627767616" duration="1380000" />
-      <workItem from="1607681538898" duration="3003000" />
-      <workItem from="1607698104705" duration="3946000" />
-      <workItem from="1607959952984" duration="5535000" />
-      <workItem from="1608055422629" duration="612000" />
-      <workItem from="1608140209932" duration="7000" />
-      <workItem from="1608141541399" duration="1914000" />
-      <workItem from="1608193356139" duration="1000" />
-      <workItem from="1608217811552" duration="596000" />
-      <workItem from="1608282467417" duration="9625000" />
-      <workItem from="1608400109901" duration="4765000" />
-      <workItem from="1608562531051" duration="7582000" />
+      <updated>1608832120777</updated>
+      <workItem from="1608832125070" duration="4843000" />
+      <workItem from="1608839150883" duration="3197000" />
+      <workItem from="1608888801089" duration="6443000" />
+      <workItem from="1608922078913" duration="1247000" />
     </task>
-    <task id="LOCAL‎۰۰۰۰۱" summary="first commit">
-      <created>1606212351744</created>
+    <task id="LOCAL‎۰۰۰۰۱" summary="change framework to bulma">
+      <created>1608922606804</created>
       <option name="number" value="LOCAL‎۰۰۰۰۱" />
       <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
-      <updated>1606212351744</updated>
+      <updated>1608922606804</updated>
     </task>
-    <task id="LOCAL‎۰۰۰۰۲" summary="circular img">
-      <created>1607078494515</created>
-      <option name="number" value="LOCAL‎۰۰۰۰۲" />
-      <option name="presentableId" value="LOCAL‎۰۰۰۰۲" />
-      <updated>1607078494515</updated>
-    </task>
-    <task id="LOCAL‎۰۰۰۰۳" summary="circular img2">
-      <created>1607681688886</created>
-      <option name="number" value="LOCAL‎۰۰۰۰۳" />
-      <option name="presentableId" value="LOCAL‎۰۰۰۰۳" />
-      <updated>1607681688886</updated>
-    </task>
-    <task id="LOCAL‎۰۰۰۰۴" summary="change header">
-      <created>1607713627196</created>
-      <option name="number" value="LOCAL‎۰۰۰۰۴" />
-      <option name="presentableId" value="LOCAL‎۰۰۰۰۴" />
-      <updated>1607713627196</updated>
-    </task>
-    <task id="LOCAL‎۰۰۰۰۵" summary="complete circular feature">
-      <created>1608292441024</created>
-      <option name="number" value="LOCAL‎۰۰۰۰۵" />
-      <option name="presentableId" value="LOCAL‎۰۰۰۰۵" />
-      <updated>1608292441024</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
-    <MESSAGE value="circular img" />
-    <MESSAGE value="circular img2" />
-    <MESSAGE value="change header" />
-    <MESSAGE value="complete circular feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete circular feature" />
+    <MESSAGE value="change framework to bulma" />
+    <option name="LAST_COMMIT_MESSAGE" value="change framework to bulma" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="568" y="198" width="664" height="332" key="#File_Watchers" timestamp="1606209882392">
+    <state x="352" y="142" key="EditFileWatcherDialog" timestamp="1608834792856">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="568" y="198" width="664" height="332" key="#File_Watchers/0.0.1366.728@0.0.1366.728" timestamp="1606209882392" />
-    <state x="438" y="188" key="#Notifications" timestamp="1606210006166">
+    <state x="352" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1608834792856" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608891725539">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="438" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1606210006166" />
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606211321392">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608891725539" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1608922537035">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606211321392" />
-    <state x="680" y="70" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1606208329010">
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608922537035" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1608922634483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="680" y="70" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1606208329010" />
-    <state x="569" y="88" width="662" height="640" key="EditFileWatcherDialog" timestamp="1606209925576">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608922634483" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608922597190">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="569" y="88" width="662" height="640" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1606209925576" />
-    <state x="680" y="120" key="FileChooserDialogImpl" timestamp="1607078258232">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="680" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607078258232" />
-    <state x="478" y="66" key="RollbackChangesDialog" timestamp="1608401107217">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="478" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608401107217" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1606209926703">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606209926703" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1608292451247">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608292451247" />
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607681659363">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607681659363" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1608922597190" />
   </component>
 </project>
