@@ -16,6 +16,7 @@
   <link rel="apple-touch-icon" href="icon.png">
   <!-- Place favicon.ico in the root directory -->
 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.8.55/css/materialdesignicons.min.css" integrity="sha512-x96qcyADhiw/CZY7QLOo7dB8i/REOEHZDhNfoDuJlyQ+yZzhdy91eAa4EkO7g3egt8obvLeJPoUKEKu5C5JYjA==" crossorigin="anonymous" />
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/bulma-rtl.min.css">
@@ -29,12 +30,16 @@
 <!--</div>-->
 
 <div class="container is-fullhd full-header">
+  <div class="columns is-mobile is-overlay menu-shopping-content">
+    <div class="column shopping-cart">
+      <i class="medium-icon mdi mdi-cart-outline" aria-hidden="true"></i>
+    </div>
+    <div class="column">
+      <div class="is-overlay">
+      <div class="container">
+        <div class="columns">
+          <div class="column is-10 is-offset-1 desktop-only">
 
-  <div class="is-overlay">
-    <div class="container">
-      <div class="columns">
-        <div class="column is-10 is-offset-1 desktop-only">
-          <h1 class="logo">Logo</h1>
             <input type="checkbox" id="nav-toggle" class="nav-toggle">
             <nav class="navigation">
               <ul class="is-align-items-center">
@@ -66,21 +71,44 @@
                 </li>
               </ul>
             </nav>
-              <label for="nav-toggle" class="is-overlay is-flex-direction-row-reverse nav-toggle-label">
-                <i class="fas fa-bars"></i>
-              </label>
+            <label for="nav-toggle" class="is-overlay is-flex-direction-row-reverse nav-toggle-label">
+              <i class="fas fa-bars"></i>
+            </label>
 
 
+          </div>
         </div>
-      </div>
 
+      </div>
+    </div>
     </div>
   </div>
 
   <img src="img/header.png">
 
 </div>
+<div class="divider"><h3><span> <img src="img/logo.png" width="80px"></span></h3></div>
+<div class="container">
+  <nav class="navbar">
 
+    <div class="footer-nav uk-navbar-center uk-visible@m">
+      <ul class="uk-navbar-nav">
+        <li><a href="#">سوالات متداول</a></li>
+        <li>
+          <a href="#" >همکاری با ما</a>
+        </li>
+        <li><a href="#">درباره ما</a></li>
+      </ul>
+    </div>
+
+  </nav>
+  <div class="has-text-centeredsocial-media">
+    <a href="" class="uk-icon-button" data-uk-icon="whatsapp"></a>
+    <a href="" class="uk-icon-button" data-uk-icon="instagram"></a>
+    <h6>بیشا در شبکه های اجتماعی و پیام رسان ها </h6>
+  </div>
+
+</div>
 
 <script src="js/vendor/modernizr-3.11.2.min.js"></script>
 <script src="js/plugins.js"></script>
