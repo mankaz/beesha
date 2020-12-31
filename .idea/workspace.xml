@@ -31,6 +31,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="caeff365-d8bf-4127-bb79-afebc78f8af8" />
+  </component>
   <component name="ProjectId" id="1m768BJXHPMRhUamikm8xvX86eL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,7 +46,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -52,6 +55,9 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\mankaz\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9bd29793-f3aa-4352-bf96-303039206481" name="Default Changelist" comment="" />
@@ -68,7 +74,7 @@
       <workItem from="1609091494435" duration="5400000" />
       <workItem from="1609177933583" duration="3593000" />
       <workItem from="1609426573814" duration="1335000" />
-      <workItem from="1609428066591" duration="2453000" />
+      <workItem from="1609428066591" duration="3541000" />
     </task>
     <task id="LOCAL‎۰۰۰۰۱" summary="change framework to bulma">
       <created>1608922606804</created>
