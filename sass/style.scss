@@ -567,7 +567,9 @@ nav a:hover {
   .medium-icon {
     font-size: 2em !important;
   }
-
+ul.bottom-menu li{
+ padding-right: 2em;
+}
 }
 .shopping-cart {
   display: flex;
@@ -581,11 +583,11 @@ nav a:hover {
 
 
 /* divider */
-.divider {
+.divid {
   margin: 70px auto 0;
   max-width: 960px;
   text-align: center;
-  width: 100%;
+
 
   h3 {
     text-align: center;
