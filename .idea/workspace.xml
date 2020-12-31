@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bd29793-f3aa-4352-bf96-303039206481" name="Default Changelist" comment="footer menu changes">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +68,7 @@
       <workItem from="1609091494435" duration="5400000" />
       <workItem from="1609177933583" duration="3593000" />
       <workItem from="1609426573814" duration="1335000" />
-      <workItem from="1609428066591" duration="1501000" />
+      <workItem from="1609428066591" duration="2453000" />
     </task>
     <task id="LOCAL‎۰۰۰۰۱" summary="change framework to bulma">
       <created>1608922606804</created>
